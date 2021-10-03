@@ -1,0 +1,6 @@
+adjective = input("Please enter an adjective: ")
+noun = input("Please enter a noun: ")
+verb = input("Please enter a verb in past tense: ")
+animalNoun = input("Please enter a name of an animal: ")
+print("Your Madlib: ")
+print("The", adjective, noun, verb, "over the lazy brown", animalNoun, ".")
