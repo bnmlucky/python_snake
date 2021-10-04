@@ -1,5 +1,5 @@
 import turtle
 t = turtle.Pen()
-for x in range(100):
+for x in range(500):
     t.forward(x)
-    t.left(90)
+    t.left(46)
